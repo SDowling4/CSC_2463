@@ -8,8 +8,8 @@ stand: {row:0, frames:1},
 walkRight: {row:0, col:1,frames:8}
 };
 characters.push(new Character(200,100,80,80,'assets/robot.png',animations));
-characters.push(new Character(200,200,80,80,'assignment3/assets/guy.png',animations));
-characters.push(new Character(200,300,80,80,'CSC_2463/assignment3/assets/green.png',animations));
+characters.push(new Character(200,200,80,80,'ssets/guy.png',animations));
+characters.push(new Character(200,300,80,80,'assets/green.png',animations));
 }
 
 
