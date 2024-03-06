@@ -74,6 +74,6 @@ function draw() {
   text ('pressing keys a- k will make a sound', 70, 20)
   text ("(a = C4),(s = D4),(d = E4),(f = F4),(g = G4),(h = A4),(j = B4),(k = C5)", 20, 40)
   text ("Left arrow to lower octave and Right arrow to raise octave.\n                     your current octave is an octave of :" + symbol+ display, 20, 80)
-  text ("Distortion Slider", 120, 190)
-  text ("Delay Slider", 120, 230)
+  text ("Delay Slider", 120, 190)
+  text ("Distortion Slider", 120, 230)
 }
